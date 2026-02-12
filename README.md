@@ -11,6 +11,10 @@ interpretable model training using many-objective and bi-objective optimisation 
 interpretable framework from these pathways is challenging, so we propose outranking them by constructing
 a credibility index based on performance metrics. Our experiments on the UCI repository and medical image
 datasets show the benefits of capturing feature importance early, ensuring intrinsic explainability.
+![Uploading OCT_Image.png…]()
+
+
+
 
 ## Article Citation
 @ARTICLE{11363191,
